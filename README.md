@@ -1,9 +1,5 @@
 # Song_React_JS
+Teste a aplicação aqui --> https://song-react-js.vercel.app
 
-Página Web feita através de HTML, CSS com funcionalidades sonoras e interativas criadas em JavaScript.
 
-Aplicação básica utilizando elementos de fornt-end como HTML e CSS e Javascript, a mesma trata-se de uma pagina responsiva que ao clicar nos icones demonstrados reage aplicando um som correspondente ao selecionado.
-*************************************************************************************************************************************************************************************
-Version 1.1 - Inserção do código, o mesmo encontra-se já finalizado, dentro dos arquivos upados encontram-se também os icones e son utilizados.
-****
-# Autor: Daniel Tomazi de Oliveira
+Aplicação criada utilizando JavaScript, HTML e CSS. A mesma foi criado com o intuito de praticar minhas habilidades nessas três linguagens de programação e basicamente consiste em emitir sons conforme o usuário clicar nas opções demonstradas na tela, foi um dos meus primeiros códigos, deixarei ele aqui por questões de expansão de portifólio.
